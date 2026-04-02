@@ -14,3 +14,5 @@ salario = float(input('Digite seu salário: R$ '))
 aumento = salario * 0.15
 novo_salario = salario + aumento
 print(f'O aumento foi de: R$ {aumento:.2f} - O novo salário é de: R$ {novo_salario:.2f}')
+
+# Exercicíos feitos na aula 2 - dia 31/03/2026

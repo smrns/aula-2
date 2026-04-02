@@ -54,6 +54,7 @@ valor_final = total - desconto
 print(f'O valor final a ser pago é: R$ {valor_final} reais')
 print(f'O desconto foi de: R$ {desconto} reais')
 
+# Exercicíos feitos na aula 2 - dia 31/03/2026
 
 
 
